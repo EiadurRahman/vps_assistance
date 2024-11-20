@@ -1,0 +1,228 @@
+{
+    "questions": [
+        {
+            "question": "What is your name?",
+            "answer": "My name is Chatbot",
+            "type": "answer"
+        },
+        {
+            "question": "hi",
+            "answer": "hello!",
+            "type": "answer"
+        },
+        {
+            "question": "hello !",
+            "answer": "hi, there!!",
+            "type": "answer"
+        },
+        {
+            "question": "What is Python?",
+            "answer": "Python is a high-level, interpreted programming language known for its simple syntax and readability. It was created by Guido van Rossum and first released in 1991.",
+            "type": "answer"
+        },
+        {
+            "question": "What is artificial intelligence?",
+            "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines programmed to think and learn like humans. It encompasses various technologies including machine learning, natural language processing, and computer vision.",
+            "type": "answer"
+        },
+        {
+            "question": "Who invented the light bulb?",
+            "answer": "While Thomas Edison is often credited with inventing the light bulb in 1879, he actually created the first commercially successful incandescent light. The concept of electric light had been explored by many inventors before him, including Heinrich G\u00c3\u00b6bel and Warren de la Rue.",
+            "type": "answer"
+        },
+        {
+            "question": "What is photosynthesis?",
+            "answer": "Photosynthesis is the process by which plants and other organisms convert light energy into chemical energy. They use sunlight, water, and carbon dioxide to produce glucose and oxygen.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the theory of relativity?",
+            "answer": "The theory of relativity, developed by Albert Einstein, consists of two parts: special relativity (1905) and general relativity (1915). It fundamentally changed our understanding of space, time, gravity, and the universe.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the capital of France?",
+            "answer": "Paris is the capital city of France. It is known as the 'City of Light' and is famous for landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the human genome?",
+            "answer": "The human genome is the complete set of nucleic acid sequences for humans, encoded as DNA within the 23 chromosome pairs in cell nuclei. It contains approximately 3 billion base pairs and around 20,000-25,000 genes.",
+            "type": "answer"
+        },
+        {
+            "question": "What is climate change?",
+            "answer": "Climate change refers to long-term shifts in global weather patterns and average temperatures. It is primarily caused by human activities that increase greenhouse gas concentrations in Earth's atmosphere, leading to global warming.",
+            "type": "answer"
+        },
+        {
+            "question": "What is quantum computing?",
+            "answer": "Quantum computing is a type of computation that uses quantum-mechanical phenomena like superposition and entanglement to perform operations on data. It has the potential to solve certain problems much faster than classical computers.",
+            "type": "answer"
+        },
+        {
+            "question": "Who wrote Shakespeare's plays?",
+            "answer": "William Shakespeare (1564-1616) wrote 37 plays and 154 sonnets. While some debate exists about the authorship, the majority of scholars accept that Shakespeare wrote the works attributed to him.",
+            "type": "answer"
+        },
+        {
+            "question": "What is blockchain technology?",
+            "answer": "Blockchain is a decentralized, distributed ledger technology that records transactions across many computers securely. It's the underlying technology behind cryptocurrencies like Bitcoin, but has many other potential applications.",
+            "type": "answer"
+        },
+        {
+            "question": "What causes earthquakes?",
+            "answer": "Earthquakes are caused by the movement of tectonic plates beneath Earth's surface. When these plates move against each other, they can become stuck and build up pressure, which is released suddenly as seismic waves.",
+            "type": "answer"
+        },
+        {
+            "question": "What is democracy?",
+            "answer": "Democracy is a system of government where power rests with the people, typically exercised through elected representatives. It is characterized by free elections, majority rule, and protection of minority rights.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the Big Bang theory?",
+            "answer": "The Big Bang theory is the leading scientific explanation for how the universe began. It suggests that the universe started from an extremely hot, dense state about 13.8 billion years ago and has been expanding ever since.",
+            "type": "answer"
+        },
+        {
+            "question": "What is machine learning?",
+            "answer": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It uses statistical techniques to allow computers to 'learn' from data.",
+            "type": "answer"
+        },
+        {
+            "question": "What is DNA?",
+            "answer": "DNA (Deoxyribonucleic acid) is a molecule that contains the genetic instructions for the development and functioning of living things. It stores biological information and is passed from generation to generation.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the Internet of Things?",
+            "answer": "The Internet of Things (IoT) refers to the network of physical objects embedded with sensors, software, and other technologies that enable them to connect and exchange data with other devices over the internet.",
+            "type": "answer"
+        },
+        {
+            "question": "What is renewable energy?",
+            "answer": "Renewable energy comes from naturally replenishing sources like sunlight, wind, rain, tides, and geothermal heat. Unlike fossil fuels, these energy sources are sustainable and generally have a lower environmental impact.",
+            "type": "answer"
+        },
+        {
+            "question": "What is virtual reality?",
+            "answer": "Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world. It uses special electronic equipment, like headsets, to create artificial environments that users can interact with.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the immune system?",
+            "answer": "The immune system is the body's natural defense mechanism against pathogens like bacteria, viruses, and other harmful organisms. It includes various cells, tissues, and organs that work together to protect the body.",
+            "type": "answer"
+        },
+        {
+            "question": "What is cloud computing?",
+            "answer": "Cloud computing is the delivery of computing services including servers, storage, databases, networking, software, and analytics over the Internet ('the cloud') to offer faster innovation, flexible resources, and economies of scale.",
+            "type": "answer"
+        },
+        {
+            "question": "What is natural selection?",
+            "answer": "Natural selection is a key mechanism of evolution discovered by Charles Darwin. It is the process by which organisms with favorable traits are more likely to survive and reproduce, passing these traits to future generations.",
+            "type": "answer"
+        },
+        {
+            "question": "What is cryptocurrency?",
+            "answer": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for security. It operates independently of a central bank and typically uses blockchain technology to record transactions.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the periodic table?",
+            "answer": "The periodic table is a systematic arrangement of chemical elements, organized based on their atomic number, electron configurations, and recurring chemical properties. It was developed by Dmitri Mendeleev in 1869.",
+            "type": "answer"
+        },
+        {
+            "question": "What is cybersecurity?",
+            "answer": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks usually aim to access, change, or destroy sensitive information, extort money, or interrupt business processes.",
+            "type": "answer"
+        },
+        {
+            "question": "What are black holes?",
+            "answer": "Black holes are regions of spacetime where gravity is so strong that nothing, including light, can escape from them. They are formed when massive stars die and their cores collapse inward under the force of gravity.",
+            "type": "answer"
+        },
+        {
+            "question": "What is the human brain?",
+            "answer": "The human brain is the central organ of the nervous system and the most complex organ in the human body. It contains approximately 86 billion neurons and controls thought, memory, emotion, touch, motor skills, vision, breathing, and every process that regulates our body.",
+            "type": "answer"
+        },
+        {
+            "question": "What is nanotechnology?",
+            "answer": "Nanotechnology is the manipulation of matter at the atomic and molecular scale. It involves working with materials and devices on an incredibly small scale, typically between 1 and 100 nanometers, to create new materials and devices with unique properties.",
+            "type": "answer"
+        },
+        {
+            "question": "What is augmented reality?",
+            "answer": "Augmented reality (AR) is an interactive experience that combines the real world with computer-generated content. Unlike virtual reality, AR adds to the real world rather than creating an entirely artificial environment.",
+            "type": "answer"
+        },
+        {
+            "question": "What is quantum physics?",
+            "answer": "Quantum physics is a fundamental theory in physics that describes the behavior of matter and energy at the atomic and subatomic level. It explains phenomena that classical physics cannot, such as wave-particle duality and quantum entanglement.",
+            "type": "answer"
+        },
+        {
+            "question": "who made you? ",
+            "answer": "md. Eiadur Rahman made me",
+            "type": "answer"
+        },
+        {
+            "question": "who?",
+            "answer": "\"who\" what?",
+            "type": "answer"
+        },
+        {
+            "question": "who is this?",
+            "answer": "it's me your very own vps assistent Michael Afton",
+            "type": "answer"
+        },
+        {
+            "question": "who are you?",
+            "answer": "your vps assistent Michael Afton",
+            "type": "answer"
+        },
+        {
+            "question": "who is eiad ?",
+            "answer": "eiad or md.Eiadur Rahman is my creator, he made me from scratch.",
+            "type": "answer"
+        },
+        {
+            "question": "sup",
+            "answer": "all good"
+        },
+        {
+            "question": "hummm",
+            "answer": "hummm \ud83e\udd27"
+        }
+    ],
+    "tasks": [
+        {
+            "task": "make a directory",
+            "command": "mkdir test"
+        },
+        {
+            "task": "run start",
+            "command": "start ."
+        },
+        {
+            "task": "write me a",
+            "command": "run write me a"
+        },
+        {
+            "task": "run subl",
+            "command": "subl"
+        },
+        {
+            "task": "run code",
+            "command": "code ."
+        },
+        {
+            "task": "run pip freeze > requirements.txt",
+            "command": "pip freeze > requirements.txt"
+        }
+    ]
+}
