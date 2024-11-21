@@ -24,8 +24,10 @@ class Bot:
         result = response.json()
         if result['result']:
             offset = result['result'][-1]['update_id']
+            chat_id = result["result"][0]["message"]["chat"]["id"]
             print('offset :',offset)
             handle_json.single_element('offset',offset+1)
+            handle_json.single_element('chat_id',chat_id)
         else:
             pass
 
